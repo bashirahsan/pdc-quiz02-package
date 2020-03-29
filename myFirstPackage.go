@@ -3,7 +3,7 @@ package pdc-quiz02-package
 
 import "fmt"
 
-func myPackage(Choice int) int {
+func MyPackage(Choice int) int {
 		Cases := []string{"Pakistan has 1526 cases.","South Korea has 9583 cases.","Farance has 37575 cases.","Go Cororna GO"}
 		if Choice == 1 {
 			fmt.Println(Cases[0])

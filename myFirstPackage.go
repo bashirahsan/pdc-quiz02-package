@@ -1,5 +1,5 @@
 
-package ahsan
+package pdc-quiz02-package
 
 import "fmt"
 

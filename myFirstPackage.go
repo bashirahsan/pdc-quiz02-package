@@ -1,5 +1,5 @@
 
-package pdc-quiz02-package
+package pdcQuiz02
 
 import "fmt"
 
